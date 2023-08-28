@@ -1,8 +1,12 @@
 # HILPISCH_wget
 ALGO_TRADING_HILPISCH_wget
+
 HILPISCH - ALGO Trading Project on Oil price moves
+
 Author: Raphael Bruggmann
+
 Date: 30.08.2023
+
 Location: Zuerich
 
 The aim of this project is to develop an algorithmic trading notebook that models different types of strategies using any applicable market instrument from tqoa-Oanda/Reuters. As we cannot integrate the API directly, we will use static data in this project. Our strategy will be focused on the "BRENT" instrument Cal 2005 to Cal 2023.
